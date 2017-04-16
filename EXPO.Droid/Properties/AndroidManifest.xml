@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="EXPO.Droid.EXPO.Droid" android:versionCode="1" android:versionName="1.0">
-  <uses-sdk android:minSdkVersion="16" />
-  <application android:label="EXPO.Droid"></application>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.eps.expo" android:versionCode="1" android:versionName="1.0">
+	<uses-sdk android:minSdkVersion="21" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<application android:label="EXPO" android:theme="@style/ExpoTheme" android:icon="@mipmap/expo_logotype"></application>
 </manifest>
