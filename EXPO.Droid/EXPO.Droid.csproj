@@ -129,6 +129,12 @@
   <ItemGroup>
     <AndroidResource Include="Resources\mipmap\expo_logotype.png" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="AndroidBindings\Binding_FabLoading\Binding_FabLoading.csproj">
+      <Project>{7E057817-87D2-4D33-B0DC-2223BFD40A2C}</Project>
+      <Name>Binding_FabLoading</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

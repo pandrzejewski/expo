@@ -1,0 +1,12 @@
+Binding for:
+io.saeid:fab-loading:1.0.0
+
+Dependencies:
+
+fab-loading-1.0.0.aar,    Path=C:\Users\pandrzejewski\.gradle\caches\modules-2\files-2.1\io.saeid\fab-loading\1.0.0\7090ed1378bb495a55a6ba6e52542dffe68a92a5\fab-loading-1.0.0.aar
+	recyclerview-v7-21.0.3.aar,    Path=C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\recyclerview-v7\21.0.3\recyclerview-v7-21.0.3.aar
+	support-annotations-21.0.3.jar,    Path=C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar
+	support-v4-21.0.3.aar,    Path=C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\21.0.3\support-v4-21.0.3.aar
+	floatingactionbutton-1.3.0.aar,    Path=C:\Users\pandrzejewski\.gradle\caches\modules-2\files-2.1\com.melnykov\floatingactionbutton\1.3.0\c28a6453b8e47eeb0764f649b90cdd67f39c1893\floatingactionbutton-1.3.0.aar
+	library-2.4.0.jar,    Path=C:\Users\pandrzejewski\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar
+	support-animator-0.2.1.aar,    Path=C:\Users\pandrzejewski\.gradle\caches\modules-2\files-2.1\io.saeid\support-animator\0.2.1\60538a3d91d36f508d3bc974aa244967aeeb058e\support-animator-0.2.1.aar
